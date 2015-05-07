@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/actionNodes/SetScale.cs">
+    <Files>
+      <File FileName="Assets/Scripts/conditionNodes/ForceCondition.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/conditionNodes/IsTouchUpArea.cs" Line="19" Column="31" />
+      <File FileName="Assets/Scripts/conditionNodes/IsTouchDownArea.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/actionNodes/SetScale.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
