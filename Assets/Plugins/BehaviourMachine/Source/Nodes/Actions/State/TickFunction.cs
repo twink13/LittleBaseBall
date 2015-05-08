@@ -48,7 +48,7 @@ namespace BehaviourMachine {
             // Get all trees in the game object
             foreach (InternalBehaviourTree t in gameObject.Value.GetComponents<InternalBehaviourTree>()) {
                 if (t.stateName == treeName.Value)
-                    return tree.TickFunction(functionName.Value);
+                    return t.TickFunction(functionName.Value);
             }
 
             return Status.Error;

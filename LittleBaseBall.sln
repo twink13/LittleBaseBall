@@ -7,6 +7,8 @@ Project("{A92CDADD-85B2-B076-50ED-1F9FD5ABAD26}") = "LittleBaseBall", "Assembly-
 EndProject
 Project("{A92CDADD-85B2-B076-50ED-1F9FD5ABAD26}") = "LittleBaseBall", "Assembly-CSharp-Editor-firstpass.csproj", "{58CF2680-DCD9-8C2D-3B13-C22CEF851814}"
 EndProject
+Project("{A92CDADD-85B2-B076-50ED-1F9FD5ABAD26}") = "LittleBaseBall", "Assembly-CSharp-Editor.csproj", "{D99ED4E1-C1AD-7A71-1D7B-2300FBB063AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,11 +27,15 @@ Global
 		{58CF2680-DCD9-8C2D-3B13-C22CEF851814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58CF2680-DCD9-8C2D-3B13-C22CEF851814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58CF2680-DCD9-8C2D-3B13-C22CEF851814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99ED4E1-C1AD-7A71-1D7B-2300FBB063AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99ED4E1-C1AD-7A71-1D7B-2300FBB063AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99ED4E1-C1AD-7A71-1D7B-2300FBB063AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99ED4E1-C1AD-7A71-1D7B-2300FBB063AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-										GlobalSection(MonoDevelopProperties) = preSolution
+																							GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
